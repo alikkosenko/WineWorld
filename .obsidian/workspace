@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "3fe6864953b845f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5fb95887e05beb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Psychology/БАР/Дневник эмоций.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "478bb0ca625f34f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "db0727278e0b719e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6837c901df65b13d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e09d1fb0397c8feb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235
+  },
+  "right": {
+    "id": "4bbcc81ae4cba488",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5b3bd19a937f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a651a87d3c9c2076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psychology/БАР/Дневник эмоций.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1374aa578c4eb49c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa5fb95887e05beb",
+  "lastOpenFiles": [
+    "Psychology/БАР/Дневник эмоций.md",
+    "MAIN.md",
+    "Programming/Git/Git и Github для начинающих.pdf",
+    "DevOps/16381-ru.pdf",
+    "Psychology/Psychology.md",
+    "Thoughts/Thoughts.md",
+    "Thoughts/Thoughts garbage.md",
+    "Thoughts/Interesting  ideas.md",
+    "Thoughts/Dialogue with my mind.md",
+    "To-do/To-do.md"
+  ]
+}
