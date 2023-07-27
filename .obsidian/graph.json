@@ -6,64 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Shell/Commands",
-      "color": {
-        "a": 1,
-        "rgb": 33510
-      }
-    },
-    {
-      "query": "path:Linux/Files",
-      "color": {
-        "a": 1,
-        "rgb": 7163145
-      }
-    },
-    {
-      "query": "path:Formatting_examples",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Linux",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Git",
-      "color": {
-        "a": 1,
-        "rgb": 9437357
-      }
-    },
-    {
-      "query": "path:Diary",
-      "color": {
-        "a": 1,
-        "rgb": 16771584
-      }
-    },
-    {
-      "query": "path:English",
-      "color": {
-        "a": 1,
-        "rgb": 16744669
-      }
-    },
-    {
-      "query": "path:Dev/Python",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
@@ -74,6 +17,6 @@
   "repelStrength": 17.6028138528139,
   "linkStrength": 0.625,
   "linkDistance": 250,
-  "scale": 0.024098328346210115,
-  "close": false
+  "scale": 0.07076914799571811,
+  "close": true
 }
