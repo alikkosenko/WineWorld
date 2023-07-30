@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red/Bastardo.md",
-                "mode": "source",
+                "file": "Grape_classes.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "4bbcc81ae4cba488",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red/Bastardo.md",
+                "file": "Grape_classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red/Bastardo.md"
+                "file": "Grape_classes.md"
               }
             }
           },
@@ -168,9 +169,17 @@
   },
   "active": "ae5f24c77ed7ef3d",
   "lastOpenFiles": [
+    "README.md",
+    "Grape_classes.md",
+    "Red/Bastardo.md",
+    "Red/Pinot_Meunier.md",
+    "Red/Pinot_Gris.md",
+    "Red/Pinot_Franc.md",
+    "Red/Nebbiolo.md",
+    "Red/Merlot.md",
+    "Red/Malbec.md",
     "Templates/Variety_temp.md",
     "Templates/Default_temp.md",
-    "Grape_classes.md",
     "Countries",
     "White/Gavi.md",
     "White/Chenin_Blanc.md",
@@ -183,18 +192,10 @@
     "White/Riesling.md",
     "White/Chardonnay.md",
     "White/Gewurztraminer.md",
-    "README.md",
     "Red/Tempranillo.md",
     "Red/Semillion.md",
     "Red/Cabernet_Franc.md",
-    "Red/Pinot_Franc.md",
-    "Red/Pinot_Meunier.md",
-    "Red/Nebbiolo.md",
     "Red/Black_Moscato.md",
-    "Red/Bastardo.md",
-    "Red/Pinot_Noir.md",
-    "Red/Pinot_Gris.md",
-    "Red/Saperavi.md",
     "Red",
     "White",
     "Templates",
